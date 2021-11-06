@@ -5,4 +5,8 @@
  ## Vulnrable Version 
  Apache HTTP Server 2.4.49 and 2.4.50.
  
+ ## apache_path_traversal.py
+
+ A python script for check the server is vulnerable or not & use for read the file. 
+ 
  
